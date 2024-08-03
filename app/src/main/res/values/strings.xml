@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Mood App</string>
+    <string name="label">Daily Mood Tracker</string>
+    <string name="score">Your Score: %1$d</string>
+    <string name="round">Round: %1$d</string>
+    <string name="sad">Sad</string>
+    <string name="neutral">Neutral</string>
+    <string name="happy">Happy</string>
+    <string name="stress">Stress</string>
+    <string name="excitd">Excitd</string>
+    <string name="mood">Mood</string>
+</resources>
